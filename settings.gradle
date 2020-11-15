@@ -1,0 +1,4 @@
+include ':02multiscreen'
+include ':01multiscreen'
+include ':app'
+rootProject.name = "IrinaPoltanovaIzhevsk"
